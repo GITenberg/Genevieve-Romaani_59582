@@ -1,16 +1,21 @@
 _repo: Genevieve-Romaani_59582
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Keckman, Paul
     gutenberg_agent_id: '50521'
     url: http://www.gutenberg.org/2009/agents/50521
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pressensé, Elise de
     gutenberg_agent_id: '50520'
     url: http://www.gutenberg.org/2009/agents/50520
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59582#Genevieve-Romaani
 gutenberg_issued: '2019-05-23'
 gutenberg_type: Text
 identifiers:
